@@ -1,0 +1,14 @@
+.inicio1{
+    width:100%;
+    background-color: aqua;
+    padding-top: 80px;
+    z-index: 1;
+}
+.nav-header-container{
+    float: left;
+}
+
+.icono1{
+    z-index: 2;
+    color:red;
+}
